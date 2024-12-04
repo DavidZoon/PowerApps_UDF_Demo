@@ -1,9 +1,12 @@
 # PowerApps_UDF_Demo
-Demo for user defined functions in power apps canvas
+Demo sur les fonctions définies par l'utilisateur
 
 Pour importer l'appli démo :
 
-Aller sur make.powerapps.com
+Télécharger le fichier msapp
+![image](https://github.com/user-attachments/assets/0deb1bd7-7f04-4437-8df8-6a105f0bae50)
+
+Aller sur make.powerapps.com, (sur l'environnement de votre choix)
 
 Cliquer sur applications
 
